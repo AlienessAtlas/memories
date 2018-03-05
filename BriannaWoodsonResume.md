@@ -11,11 +11,13 @@ I’m looking to expand my knowledge of computer programming, software & web dev
 
 **Education**
 ----------
-**Clover Park Technical College**:  Student, Fall 2017 - Winter 2017
-	-- Completed 15 credits of their Computer Programming degree to achieve a basic knowledge of the languages: T-SQL, Python, HTML5, & CSS. Gained experience in input/output, queries, & loops.
+**Clover Park Technical College**:  Student (Fall 2017 - Winter 2017)
+	
+	- Completed 15 credits of their Computer Programming degree to achieve a basic knowledge of the languages: T-SQL, Python, HTML5, & CSS. Gained experience in input/output, queries, & loops.
 
-**South Puget Sound Community Colllege** Running Start Student, Fall 2015 - Spring 2016
-	-- Completed 45 credits as apart of a dual-credit program for High School
+**South Puget Sound Community Colllege** Running Start Student (Fall 2015 - Spring 2016)
+	
+	- Completed 45 credits as apart of a dual-credit program for High School
 
 **Black Hills High School**: Graduated Spring 2016
 
