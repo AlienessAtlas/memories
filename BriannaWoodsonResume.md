@@ -21,9 +21,14 @@ I’m looking to expand my knowledge of computer programming, software & web dev
 
 **Black Hills High School**: Graduated Spring 2016
 
+**Community Engagement**
+------------
+**Club Object-Oriented Programming Students (OOPS)** 
+- A Clover Park student group. Gained hands-on experience with contributing to a project within a group to create small projects such as a Raspberry Pi weather station device. 
 
 **Work History**
 -----------
 **Meconi’s Italian Subs**: December 2017 - Present
 	
 **JCPenny’s** : November 2016 - August 2017
+
