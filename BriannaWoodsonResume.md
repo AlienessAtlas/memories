@@ -23,7 +23,10 @@ I’m looking to expand my knowledge of computer programming, software & web dev
 
 **Community Engagement**
 ------------
-**Club Object-Oriented Programming Students (OOPS)** 
+**Olympia Film Society** Current Volunteer Projectionist 
+- Trained in 35mm and digital theater projection for a weekly shift at the Olympia Capitol Theater. 
+
+**Club Object-Oriented Programming Students (OOPS)** Former Member
 - A Clover Park student group. Gained hands-on experience with contributing to a project within a group to create a Raspberry Pi weather station device. 
 
 **Work History**
